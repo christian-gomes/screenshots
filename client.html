@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Screenshots</title>
+  <link rel="stylesheet" href="gallery.css">
+</head>
+<body data-view="client">
+  <header class="topbar">
+    <a class="back" href="index.html">← All clients</a>
+    <h1 id="title">Screenshots</h1>
+  </header>
+  <main id="app"><p class="loading">Loading…</p></main>
+
+  <div id="lightbox" class="lightbox" hidden>
+    <button class="lb-close" type="button" aria-label="Close">✕</button>
+    <a class="lb-download" download href="#">Download</a>
+    <img id="lb-img" alt="">
+  </div>
+
+  <script src="gallery.js"></script>
+</body>
+</html>

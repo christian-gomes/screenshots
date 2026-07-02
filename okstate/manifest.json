@@ -1,0 +1,18 @@
+{
+  "client": "okstate",
+  "platforms": {
+    "ios": {
+      "zip": "ios.zip",
+      "images": [
+        "ios/en-US/iPad Air 13-inch (M3)-01-home.png",
+        "ios/en-US/iPad Air 13-inch (M3)-02-schedule.png",
+        "ios/en-US/iPad Air 13-inch (M3)-03-more.png",
+        "ios/en-US/iPad Air 13-inch (M3)-04-roster.png",
+        "ios/en-US/iPhone 17 Pro Max-01-home.png",
+        "ios/en-US/iPhone 17 Pro Max-02-schedule.png",
+        "ios/en-US/iPhone 17 Pro Max-03-more.png",
+        "ios/en-US/iPhone 17 Pro Max-04-roster.png"
+      ]
+    }
+  }
+}
