@@ -1,6 +1,16 @@
 {
   "client": "ohiostatedev",
   "platforms": {
+    "android": {
+      "zip": "android.zip",
+      "device": "Pixel 5",
+      "images": [
+        "android/en-US/images/phoneScreenshots/01-home_1783090978124.png",
+        "android/en-US/images/phoneScreenshots/02-schedule_1783090986686.png",
+        "android/en-US/images/phoneScreenshots/03-more_1783090995478.png",
+        "android/en-US/images/phoneScreenshots/04-roster_1783091023858.png"
+      ]
+    },
     "ios": {
       "zip": "ios.zip",
       "images": [
